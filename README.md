@@ -3,8 +3,8 @@
 
 [![Language](https://img.shields.io/badge/language-python-blue)](https://www.python.org)
 [![CodeFactor](https://www.codefactor.io/repository/github/vlodyakr/python-6-web-homework-01/badge)](https://www.codefactor.io/repository/github/vlodyakr/python-6-web-homework-01)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/VlodyaKr/Python-6-Web-HomeWork-01?style=plastic)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VlodyaKr/Python-6-Web-HomeWork-01?style=plastic)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/VlodyaKr/Python-6-Web-HomeWork-01)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VlodyaKr/Python-6-Web-HomeWork-01)
 
 
 ---
